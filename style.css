@@ -1,0 +1,16 @@
+@import url('styles/stylesheet.css');
+@import url('styles/simple-grid.min.css');
+
+body {
+	font-family: 'metropolisregular', sans-serif;
+	color: white;
+}
+
+.white {
+	color: #F5F3F4 !important;	
+}
+
+.red {
+	color: #E5383B;
+	font-family: 'metropolisextra_bold_italic', sans-serif;
+}

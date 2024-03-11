@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="656px" height="135px" viewBox="0 0 656 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>widelogo-dark</title>
+    <g id="widelogo-dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy" transform="translate(23.000000, 8.000000)">
+            <path d="M83.475,8.50070346 L83.475,48.9906348 L45.85,79.6199019 L8.225,48.9906348 L8.225,8.50070346 L83.475,8.50070346 Z" id="Rectangle" stroke="#F5F3F4" stroke-width="16.45"></path>
+            <polygon id="Path-6" fill="#E5383B" points="0 59.0757035 45.85 96.6308278 91.7 59.0757035 45.85 118.575703"></polygon>
+        </g>
+        <text id="BaseRunner" font-family="Metropolis-ExtraBoldItalic, Metropolis" font-size="80" font-style="italic" font-weight="700" letter-spacing="2" fill="#F5F3F4">
+            <tspan x="144" y="88">BaseRunner</tspan>
+        </text>
+    </g>
+</svg>
